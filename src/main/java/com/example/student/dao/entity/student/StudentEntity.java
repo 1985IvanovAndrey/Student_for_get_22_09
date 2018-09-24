@@ -1,8 +1,7 @@
-package com.example.student.dao.entity;
+package com.example.student.dao.entity.student;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 

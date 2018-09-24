@@ -1,0 +1,1 @@
+{"Weather":[{"tempMax":10,"date":"Sun Sep 23 20:59:03 EEST 2018","nameCity":"Dnipro","pressure":1018,"CloudWeather":[{"description":"clear sky","main":"Clear"}],"tempMin":10}]}

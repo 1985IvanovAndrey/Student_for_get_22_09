@@ -1,9 +1,8 @@
 package com.example.student.service;
 
 
-import com.example.student.dao.entity.AdressEntity;
-import com.example.student.dao.entity.FromJsonEntity;
-import com.example.student.dao.entity.StudentEntity;
+import com.example.student.dao.entity.student.AdressEntity;
+import com.example.student.dao.entity.student.StudentEntity;
 import com.example.student.dto.StudentDto;
 import com.example.student.repository.StudentRepository;
 import lombok.extern.slf4j.Slf4j;
